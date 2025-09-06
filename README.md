@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-### My Statistics
 <div align="center">
-    <img alt="nasudadada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nasudadada&show_icons=true&count_private=true" height="192px"/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasudadada&show_icons=true&locale=en&layout=compact" alt="nasudadada" height="192px"/>
- </div>
+	<img alt="nasudadada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nasudadada&show_icons=true&count_private=true" height="192px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasudadada&show_icons=true&langs_count=10&locale=en&layout=compact" alt="nasudadada" height="192px"/>
+</div>
 <!--
 **nasudadada/nasudadada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
