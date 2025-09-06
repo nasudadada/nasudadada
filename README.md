@@ -1,8 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasudadada&layout=compact&show_icons=true" />
-</p>
+### My Statistics
+<div align="center">
+    <img alt="nasudadada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nasudadada&show_icons=true&count_private=true" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasudadada&show_icons=true&locale=en&layout=compact" alt="nasudadada" height="192px"/>
+ </div>
 <!--
 **nasudadada/nasudadada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
